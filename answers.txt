@@ -9,3 +9,7 @@ Answer: It could help with finance. For example, traders can analyze trends in t
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging creates a new conflict that combines branches will preserving the history, so there is room for conflicts, while rebasing reapplies the new commits onto another branch.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I want to learn how to statistical analyses on large groups of data, which is relevant for my math major.
