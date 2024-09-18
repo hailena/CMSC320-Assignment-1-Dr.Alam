@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: It could help with finance. For example, traders can analyze trends in the market to make predictions on when to buy and sell stocks.
